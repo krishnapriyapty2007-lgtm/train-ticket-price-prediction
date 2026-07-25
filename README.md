@@ -13,6 +13,6 @@ Train ticket price dataset (data1.csv)
 R2 Score and RMSE are used to evaluate the model.
 
 ## Files
-- Untitled4.ipynb
+- Untitled6.py
 - data1.csv
 - scatter_plot.png# train-ticket-price-prediction
